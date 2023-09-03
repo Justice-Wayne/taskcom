@@ -14,7 +14,8 @@ hour
 
 reboot
 
-<img width="583" alt="image" src="https://github.com/Justice-Wayne/taskcom/assets/88639842/fe9e50f0-d18d-4200-a485-e1dd0b3fd473">
+<img width="542" alt="image" src="https://github.com/Justice-Wayne/taskcom/assets/88639842/ad548d4a-e620-4ba9-98fb-5080f915178c">
+
 
 
 
