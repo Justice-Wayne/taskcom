@@ -22,5 +22,10 @@ reboot
 
 
 
+bypass all av 
+
+
+
+
 
 
