@@ -24,6 +24,8 @@ reboot
 
 bypass all av
 
+缺点：暂未发现
+
 
 
 
